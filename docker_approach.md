@@ -71,5 +71,3 @@ TEST RESULT : System achieved 35184 NOPM from 81187 PostgreSQL TPM
 ```
 
 Выделение большего количества ресурсов принципиально увеличило производительность БД
-
-https://github.com/Affirmat1ve/db_opt_singlepage/blob/main/hammerDB/result.md
